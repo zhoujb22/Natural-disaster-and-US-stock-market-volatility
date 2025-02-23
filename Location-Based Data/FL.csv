@@ -1,0 +1,96 @@
+Weather and Climate Billion-Dollar Disasters to affect Florida from 1980-2024
+Cost values are in millions of dollars
+Name,Disaster,Begin Date,End Date,CPI-Adjusted Cost,Unadjusted Cost,Deaths
+"Florida Freeze (January 1981)",Freeze,19810112,19810114,2070.6,572,0
+"Midwest/Southeast/Northeast Winter Storm, Cold Wave (January 1982)",Winter Storm,19820108,19820116,2211.1,662,85
+"Gulf States Storms and Flooding (December 1982-January 1983)",Flooding,19821201,19830115,4930.7,1536.1,45
+"Freeze/Cold Wave (December 1983)",Freeze,19831215,19831225,6459.2,2005.8,151
+"Tornadoes, Severe Storms, Floods (Spring 1984)",Severe Storm,19840327,19840407,1851.6,603.1,80
+"Florida Freeze (January 1985)",Freeze,19850120,19850122,3576,1200,0
+"Winter Storm, Cold Wave (January 1985)",Winter Storm,19850119,19850122,2493.7,836.9,150
+"Hurricane Elena (September 1985)",Tropical Cyclone,19850830,19850903,3775.4,1297.4,4
+"Hurricane Juan (October 1985)",Tropical Cyclone,19851027,19851031,4325.5,1496.7,63
+"Florida Freeze (December 1989)",Freeze,19891223,19891225,5200,2000,10
+"Winter Storm, Cold Wave (December 1989)",Winter Storm,19891221,19891226,1693.8,680,100
+"Severe Storms (March 1992)",Severe Storm,19920324,19920325,1817.9,804.3,0
+"Hurricane Andrew (August 1992)",Tropical Cyclone,19920823,19920827,60210,27000,61
+"East Coast Blizzard and Severe Weather (March 1993)",Winter Storm,19930311,19930314,12159.4,5527,270
+"Southeast Drought and Heat Wave (Summer 1993)",Drought,19930601,19930831,2780.2,1258,16
+"Tropical Storm Alberto (July 1994)",Tropical Cyclone,19940707,19940710,2116.8,998.5,32
+"Hurricane Erin (August 1995)",Tropical Cyclone,19950801,19950807,1751,850,6
+"Hurricane Opal (October 1995)",Tropical Cyclone,19951004,19951006,9612.5,4689,27
+"Western/Eastern Severe Weather and Flooding (Winter-Spring 1998)",Severe Storm,19971201,19980228,1958.8,1004.5,132
+"Southern Drought and Heat Wave (Summer 1998)",Drought,19980601,19980831,6879.7,3528,200
+"Hurricane Georges (September 1998)",Tropical Cyclone,19980920,19980929,11490.2,5984.5,16
+"Central and Eastern Winter Storm (January 1999)",Winter Storm,19990101,19990104,1972.1,1032.5,25
+"Oklahoma and Kansas Tornadoes (May 1999)",Severe Storm,19990503,19990506,3802.9,2012.1,55
+"Eastern Drought/Heat Wave (Summer 1999)",Drought,19990601,19990831,4772.8,2498.9,502
+"South Florida Flooding (October 2000)",Flooding,20001003,20001004,1629,900,3
+"Western/Central/Southeast Drought/Heat Wave (Spring-Fall 2000)",Drought,20000301,20001130,9294.5,4997.2,140
+"Tropical Storm Allison (June 2001)",Tropical Cyclone,20010605,20010617,15084,8522,43
+"Tropical Storm Isidore (September 2002)",Tropical Cyclone,20020925,20020927,2001,1150,5
+"Southern Derecho and Eastern Severe Weather (July 2003)",Severe Storm,20030721,20030723,1723.9,1008.2,7
+"Hurricane Charley (August 2004)",Tropical Cyclone,20040813,20040814,26559.2,15999.5,35
+"Hurricane Frances (September 2004)",Tropical Cyclone,20040903,20040909,16268,9800,48
+"Hurricane Ivan (September 2004)",Tropical Cyclone,20040912,20040921,34031,20500.5,57
+"Hurricane Jeanne (September 2004)",Tropical Cyclone,20040915,20040929,12444.5,7496.5,28
+"Southeast Severe Weather (March 2005)",Severe Storm,20050324,20050327,1410,865,0
+"Hurricane Dennis (July 2005)",Tropical Cyclone,20050709,20050711,4017,2495,15
+"Hurricane Katrina (August 2005)",Tropical Cyclone,20050825,20050830,200047.3,125029.5,1833
+"Hurricane Rita (September 2005)",Tropical Cyclone,20050920,20050924,29230.2,18500.1,119
+"Hurricane Wilma (October 2005)",Tropical Cyclone,20051024,20051024,30020,19000,35
+"Midwest/Plains/Southeast Drought (Spring-Summer 2006)",Drought,20060301,20060831,9536.7,5997.9,0
+"Numerous Wildfires (2006)",Wildfire,20060101,20061231,2332.8,1467.1,28
+"Western Wildfires (Summer 2007)",Wildfire,20070601,20070831,4139.4,2741.3,12
+"Western/Eastern Drought/Heat Wave (Summer-Fall 2007)",Drought,20070601,20071130,5484.6,3538.3,15
+"U.S. Wildfires (Fall 2008)",Wildfire,20080901,20081130,1777,1234,16
+"Southern Plains/Southwest Drought and Heat Wave (Spring-Summer 2011)",Drought,20110301,20110831,17109.5,11964.8,95
+"Texas, New Mexico, Arizona Wildfires (Summer-Fall 2011)",Wildfire,20110601,20111130,2530.8,1820.8,5
+"Hurricane Isaac (August 2012)",Tropical Cyclone,20120826,20120831,3786.1,2763.5,9
+"Midwest/Southeast/Northeast Tornadoes and Flooding (April 2014)",Severe Storm,20140427,20140501,2309.2,1736.1,33
+"South/Southeast Severe Weather (April 2015)",Severe Storm,20150418,20150420,1707.6,1283.9,0
+"South and Southeast Severe Weather (April 2015)",Severe Storm,20150424,20150425,1255.8,944,3
+"Southeast and Eastern Tornadoes (February 2016)",Severe Storm,20160222,20160224,1383.5,1040,10
+"North/Central Texas Hail Storm (April 2016)",Severe Storm,20160410,20160412,4583.2,3498.6,0
+"Hurricane Matthew (October 2016)",Tropical Cyclone,20161008,20161012,13000,10000,49
+"Southern Tornado Outbreak and Western Storms (January 2017)",Severe Storm,20170120,20170122,1436.5,1105,24
+"Southeast Freeze (March 2017)",Freeze,20170314,20170316,1300,1000,0
+"Southeast Severe Weather and Tornadoes (April 2017)",Severe Storm,20170404,20170406,1259.2,976,1
+"Hurricane Irma (September 2017)",Tropical Cyclone,20170906,20170912,64000,50000,97
+"Southeastern Tornadoes and Severe Weather (March 2018)",Severe Storm,20180318,20180321,1829.5,1452,0
+"Southern and Eastern Tornadoes and Severe Weather (April 2018)",Severe Storm,20180413,20180416,1660.7,1318,3
+"Hurricane Michael (October 2018)",Tropical Cyclone,20181010,20181011,30969,24975,49
+"Hurricane Dorian (September 2019)",Tropical Cyclone,20190828,20190906,1980.3,1610,10
+"South, East and Northeast Severe Weather (February 2020)",Severe Storm,20200205,20200207,1532.2,1256,3
+"Southeast and Eastern Tornado Outbreak (April 2020)",Severe Storm,20200412,20200413,4236.2,3444,35
+"Southern Severe Weather (April 2020)",Severe Storm,20200421,20200423,1660.6,1350,3
+"South, Central and Eastern Severe Weather (May 2020)",Severe Storm,20200520,20200523,1948.6,1584,2
+"Hurricane Isaias (August 2020)",Tropical Cyclone,20200803,20200804,5756.1,4757,16
+"Hurricane Sally (September 2020)",Tropical Cyclone,20200915,20200917,8801.5,7274,5
+"Tropical Storm Eta (November 2020)",Tropical Cyclone,20201108,20201112,1766.7,1460,12
+"Tropical Storm Elsa (July 2021)",Tropical Cyclone,20210707,20210709,1395.3,1213,1
+"Tropical Storm Fred (August 2021)",Tropical Cyclone,20210816,20210818,1468.9,1277,7
+"Hurricane Ida (August 2021)",Tropical Cyclone,20210829,20210901,84608.1,73572,96
+"Hurricane Nicholas (September 2021)",Tropical Cyclone,20210914,20210918,1168.5,1016,0
+"Southern Tornado Outbreak (March 2022)",Severe Storm,20220330,20220330,1369.4,1256,2
+"Southeast Tornado Outbreak (April 2022)",Severe Storm,20220404,20220406,1544.8,1417,3
+"Hurricane Ian (September 2022)",Tropical Cyclone,20220928,20220930,118508,111800,152
+"Hurricane Nicole (November 2022)",Tropical Cyclone,20221110,20221111,1081.2,1020,5
+"Fort Lauderdale Flash Flood (April 2023)",Flooding,20230412,20230413,1133,1100,0
+"Central and Southern Severe Weather (April 2023)",Severe Storm,20230415,20230415,1388.3,1335,0
+"Southern Severe Weather (April 2023)",Severe Storm,20230425,20230427,1372.8,1320,0
+"Southern Severe Weather (June 2023)",Severe Storm,20230611,20230614,4153.1,4032,0
+"Central and Southern Severe Weather (June 2023)",Severe Storm,20230615,20230618,3881.1,3768,5
+"Northeastern and Eastern Severe Weather (August 2023)",Severe Storm,20230805,20230808,1680.2,1631,4
+"Hurricane Idalia (August 2023)",Tropical Cyclone,20230829,20230831,3559.7,3456,5
+"East Coast Storm and Flooding (December 2023)",Flooding,20231216,20231218,1301.6,1276,5
+"Southern Tornado Outbreak and East Coast Storm (January 2024)",Severe Storm,20240108,20240110,2780.2,2726,3
+"Southern Severe Weather (February 2024)",Severe Storm,20240210,20240212,1072,1051,0
+"Central Tornado Outbreak and Eastern Severe Weather (April 2024)",Severe Storm,20240401,20240403,2465.5,2441,3
+"Southern and Eastern Severe Weather (April 2024)",Severe Storm,20240408,20240411,2725.1,2698,0
+"Central, Southern, Southeastern Tornado Outbreak (May 2024)",Severe Storm,20240506,20240509,6571,6571,3
+"Southern Severe Weather (May 2024)",Severe Storm,20240511,20240513,1124,1124,1
+"Southern Derecho (May 2024)",Severe Storm,20240516,20240517,1551,1551,8
+"Hurricane Debby (August 2024)",Tropical Cyclone,20240805,20240809,2476,2476,10
+"Hurricane Helene (September 2024)",Tropical Cyclone,20240924,20240929,TBD,TBD,225
+"Hurricane Milton (August 2024)",Tropical Cyclone,20241009,20241010,TBD,TBD,24

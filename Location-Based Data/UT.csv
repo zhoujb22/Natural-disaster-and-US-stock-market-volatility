@@ -1,0 +1,28 @@
+Weather and Climate Billion-Dollar Disasters to affect Utah from 1980-2024
+Cost values are in millions of dollars
+Name,Disaster,Begin Date,End Date,CPI-Adjusted Cost,Unadjusted Cost,Deaths
+"Western Storms and Flooding (December 1982-March 1983)",Flooding,19821213,19830331,4813.8,1499.6,50
+"Freeze/Cold Wave (December 1983)",Freeze,19831215,19831225,6459.2,2005.8,151
+"Northern Plains Drought (Summer-Fall 1989)",Drought,19890601,19891130,7808.1,3003.2,0
+"Western Fire Season (Summer-Fall 1994)",Wildfire,19940601,19941130,1544.4,725,0
+"Western Fire Season (Fall 2002)",Wildfire,20020901,20021130,2301.8,1322.8,21
+"U.S. Drought (Spring-Fall 2002)",Drought,20020301,20021130,16031.6,9006.4,0
+"California Wildfires (Fall 2003)",Wildfire,20030901,20031130,6613.7,3890.4,22
+"Western/Central Drought/Heat Wave (Spring-Fall 2003)",Drought,20030301,20031130,8680.8,5017.7,35
+"Numerous Wildfires (2006)",Wildfire,20060101,20061231,2332.8,1467.1,28
+"Western Wildfires (Summer 2007)",Wildfire,20070601,20070831,4139.4,2741.3,12
+"Western/Eastern Drought/Heat Wave (Summer-Fall 2007)",Drought,20070601,20071130,5484.6,3538.3,15
+"U.S. Wildfires (Fall 2008)",Wildfire,20080901,20081130,1777,1234,16
+"Western Wildfires (Summer-Fall 2012)",Wildfire,20120601,20121130,2381.7,1738.5,8
+"U.S. Drought/Heat Wave (2012)",Drought,20120101,20121231,41705.2,30003.6,123
+"Western/Plains Drought/Heat Wave (Spring-Fall 2013)",Drought,20130301,20131130,14283.6,10425.9,53
+"Western Drought (2014)",Drought,20140101,20141231,5295.5,3951.7,0
+"Western Drought (2015)",Drought,20150101,20151231,6029.3,4466,0
+"Colorado Hail Storm (June 2018)",Severe Storm,20180618,20180619,2778.8,2223,0
+"Southwest/Southern Plains Drought (Summer-Fall 2018)",Drought,20180601,20181230,3797.4,2990,0
+"Western Wildfires, California Firestorm (Summer-Fall 2018)",Wildfire,20180601,20181231,30000,24000,106
+"Western Wildfires - California, Oregon, Washington Firestorms (Fall 2020)",Wildfire,20200801,20201230,19904.5,16450,46
+"Western/Central Drought and Heat Wave (Summer-Fall 2020)",Drought,20200601,20201230,5439.1,4495,45
+"Western Wildfires (2021)",Wildfire,20210601,20211231,12064,10400,8
+"Western Drought and Heat Wave (2021)",Drought,20210101,20211231,10117.2,8431,229
+"Western/Central Drought and Heat Wave (2022)",Drought,20220101,20221231,23480.6,20965,136

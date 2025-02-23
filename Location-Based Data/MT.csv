@@ -1,0 +1,39 @@
+Weather and Climate Billion-Dollar Disasters to affect Montana from 1980-2024
+Cost values are in millions of dollars
+Name,Disaster,Begin Date,End Date,CPI-Adjusted Cost,Unadjusted Cost,Deaths
+"Central/Eastern Drought/Heat Wave (Summer-Fall 1980)",Drought,19800601,19801130,40480.8,10020,1260
+"Western Storms and Flooding (December 1982-March 1983)",Flooding,19821213,19830331,4813.8,1499.6,50
+"Freeze/Cold Wave (December 1983)",Freeze,19831215,19831225,6459.2,2005.8,151
+"U.S. Drought/Heat Wave (Summer 1988)",Drought,19880601,19880831,54410.5,20003.8,454
+"Western Fire Season (Summer 1990)",Wildfire,19900601,19900831,1709,715,17
+"Pacific Northwest Severe Flooding (February 1996)",Flooding,19960207,19960212,2056.9,1008.3,9
+"West Coast Flooding (December 1996-January 1997)",Flooding,19970101,19970111,5973.6,3017,36
+"Western Fire Season (Spring-Summer 2000)",Wildfire,20000301,20000831,1978,1075,0
+"Western/Central/Southeast Drought/Heat Wave (Spring-Fall 2000)",Drought,20000301,20001130,9294.5,4997.2,140
+"U.S. Drought (Spring-Fall 2002)",Drought,20020301,20021130,16031.6,9006.4,0
+"California Wildfires (Fall 2003)",Wildfire,20030901,20031130,6613.7,3890.4,22
+"Western/Central Drought/Heat Wave (Spring-Fall 2003)",Drought,20030301,20031130,8680.8,5017.7,35
+"Midwest/Plains/Southeast Drought (Spring-Summer 2006)",Drought,20060301,20060831,9536.7,5997.9,0
+"Numerous Wildfires (2006)",Wildfire,20060101,20061231,2332.8,1467.1,28
+"Western Wildfires (Summer 2007)",Wildfire,20070601,20070831,4139.4,2741.3,12
+"U.S. Wildfires (Fall 2008)",Wildfire,20080901,20081130,1777,1234,16
+"U.S. Drought (2008)",Drought,20080101,20081231,10444.7,7009.8,0
+"Missouri River flooding (May-June 2011)",Flooding,20110501,20110630,2863.3,2002.3,5
+"Texas, New Mexico, Arizona Wildfires (Summer-Fall 2011)",Wildfire,20110601,20111130,2530.8,1820.8,5
+"Western Wildfires (Summer-Fall 2012)",Wildfire,20120601,20121130,2381.7,1738.5,8
+"U.S. Drought/Heat Wave (2012)",Drought,20120101,20121231,41705.2,30003.6,123
+"Rockies/Midwest/Eastern Severe Weather (May 2014)",Severe Storm,20140518,20140523,4901.4,3713.2,0
+"Western and Alaskan Wildfires (Summer-Fall 2015)",Wildfire,20150601,20151130,3996.9,3028,12
+"Western Drought (2015)",Drought,20150101,20151231,6029.3,4466,0
+"Rockies/Central Tornadoes and Severe Weather (May 2016)",Severe Storm,20160521,20160526,1501.5,1146.3,0
+"Western Wildfires, California Firestorm (Summer-Fall 2017)",Wildfire,20170601,20171231,23046.4,18005,54
+"North Dakota, South Dakota and Montana Drought (Spring-Fall 2017)",Drought,20170301,20171231,3250,2500,0
+"Mountain West Severe Weather (July 2018)",Severe Storm,20180726,20180729,1063.8,851,0
+"Western Wildfires, California Firestorm (Summer-Fall 2018)",Wildfire,20180601,20181231,30000,24000,106
+"Western Wildfires - California, Oregon, Washington Firestorms (Fall 2020)",Wildfire,20200801,20201230,19904.5,16450,46
+"Western Wildfires (2021)",Wildfire,20210601,20211231,12064,10400,8
+"Western Drought and Heat Wave (2021)",Drought,20210101,20211231,10117.2,8431,229
+"Western Wildfires (Spring-Fall 2022)",Wildfire,20220401,20221130,3296.6,3110,17
+"Western/Central Drought and Heat Wave (2022)",Drought,20220101,20221231,23480.6,20965,136
+"Southern/Midwestern Drought and Heatwave (Spring-Fall 2023)",Drought,20230401,20230930,14786.7,14082,247
+"Central and Eastern Tornado Outbreak and Severe Weather (July 2024)",Severe Storm,20240713,20240716,2435,2435,2

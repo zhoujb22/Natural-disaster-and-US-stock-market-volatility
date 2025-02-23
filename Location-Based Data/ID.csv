@@ -1,0 +1,34 @@
+Weather and Climate Billion-Dollar Disasters to affect Idaho from 1980-2024
+Cost values are in millions of dollars
+Name,Disaster,Begin Date,End Date,CPI-Adjusted Cost,Unadjusted Cost,Deaths
+"Western Storms and Flooding (December 1982-March 1983)",Flooding,19821213,19830331,4813.8,1499.6,50
+"Freeze/Cold Wave (December 1983)",Freeze,19831215,19831225,6459.2,2005.8,151
+"U.S. Drought/Heat Wave (Summer 1988)",Drought,19880601,19880831,54410.5,20003.8,454
+"Western Fire Season (Summer 1990)",Wildfire,19900601,19900831,1709,715,17
+"Pacific Northwest Severe Flooding (February 1996)",Flooding,19960207,19960212,2056.9,1008.3,9
+"West Coast Flooding (December 1996-January 1997)",Flooding,19970101,19970111,5973.6,3017,36
+"Western Fire Season (Spring-Summer 2000)",Wildfire,20000301,20000831,1978,1075,0
+"U.S. Drought (Spring-Fall 2002)",Drought,20020301,20021130,16031.6,9006.4,0
+"California Wildfires (Fall 2003)",Wildfire,20030901,20031130,6613.7,3890.4,22
+"Western/Central Drought/Heat Wave (Spring-Fall 2003)",Drought,20030301,20031130,8680.8,5017.7,35
+"Numerous Wildfires (2006)",Wildfire,20060101,20061231,2332.8,1467.1,28
+"Western Wildfires (Summer 2007)",Wildfire,20070601,20070831,4139.4,2741.3,12
+"Western/Eastern Drought/Heat Wave (Summer-Fall 2007)",Drought,20070601,20071130,5484.6,3538.3,15
+"U.S. Wildfires (Fall 2008)",Wildfire,20080901,20081130,1777,1234,16
+"U.S. Drought (2008)",Drought,20080101,20081231,10444.7,7009.8,0
+"Southwest/Great Plains Drought (2009)",Drought,20090101,20091231,5203.2,3492,0
+"Texas, New Mexico, Arizona Wildfires (Summer-Fall 2011)",Wildfire,20110601,20111130,2530.8,1820.8,5
+"Western Wildfires (Summer-Fall 2012)",Wildfire,20120601,20121130,2381.7,1738.5,8
+"U.S. Drought/Heat Wave (2012)",Drought,20120101,20121231,41705.2,30003.6,123
+"Western/Plains Drought/Heat Wave (Spring-Fall 2013)",Drought,20130301,20131130,14283.6,10425.9,53
+"Western Drought (2014)",Drought,20140101,20141231,5295.5,3951.7,0
+"Western and Alaskan Wildfires (Summer-Fall 2015)",Wildfire,20150601,20151130,3996.9,3028,12
+"Western Drought (2015)",Drought,20150101,20151231,6029.3,4466,0
+"Western/Southeast Wildfires (Summer-Fall 2016)",Wildfire,20160601,20161231,3137.5,2395,21
+"Western Wildfires, California Firestorm (Summer-Fall 2017)",Wildfire,20170601,20171231,23046.4,18005,54
+"Western Wildfires, California Firestorm (Summer-Fall 2018)",Wildfire,20180601,20181231,30000,24000,106
+"Western Wildfires - California, Oregon, Washington Firestorms (Fall 2020)",Wildfire,20200801,20201230,19904.5,16450,46
+"Western Wildfires (2021)",Wildfire,20210601,20211231,12064,10400,8
+"Western Drought and Heat Wave (2021)",Drought,20210101,20211231,10117.2,8431,229
+"Western Wildfires (Spring-Fall 2022)",Wildfire,20220401,20221130,3296.6,3110,17
+"Western/Central Drought and Heat Wave (2022)",Drought,20220101,20221231,23480.6,20965,136

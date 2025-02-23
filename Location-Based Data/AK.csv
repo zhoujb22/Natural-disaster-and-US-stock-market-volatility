@@ -1,0 +1,11 @@
+Weather and Climate Billion-Dollar Disasters to affect Alaska from 1980-2024
+Cost values are in millions of dollars
+Name,Disaster,Begin Date,End Date,CPI-Adjusted Cost,Unadjusted Cost,Deaths
+"Western Fire Season (Fall 2002)",Wildfire,20020901,20021130,2301.8,1322.8,21
+"California Wildfires (Fall 2003)",Wildfire,20030901,20031130,6613.7,3890.4,22
+"Numerous Wildfires (2006)",Wildfire,20060101,20061231,2332.8,1467.1,28
+"Western Wildfires (Summer 2007)",Wildfire,20070601,20070831,4139.4,2741.3,12
+"Western Wildfires (Summer-Fall 2009)",Wildfire,20090601,20091130,1477.4,1011.9,10
+"Western and Alaskan Wildfires (Summer-Fall 2015)",Wildfire,20150601,20151130,3996.9,3028,12
+"California and Alaska Wildfires (Summer-Fall 2019)",Wildfire,20190601,20191130,5535,4500,3
+"Western Wildfires (Spring-Fall 2022)",Wildfire,20220401,20221130,3296.6,3110,17
