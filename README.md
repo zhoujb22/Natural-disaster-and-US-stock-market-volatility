@@ -29,6 +29,10 @@ To analyze the financial impacts of natural disasters on industry-specific stock
 
 2) Comparing the responses of different industries (e.g., real estate, utilities, and healthcare) to specific disaster types (Floods, Tropical Cyclones, and Severe Storms).
 
+Part of the visualizations:
+- The cumulative average abnormal return of disasters in specific industries.
+![CAAR](./images/CAAR.png)
+
 
 ## Data Sources
 
